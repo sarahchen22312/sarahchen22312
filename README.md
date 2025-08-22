@@ -1,4 +1,4 @@
-# Sarah Chen ⚙️
+# Sarah Chen 
 
 > **Senior DevOps Engineer** | _Building scalable infrastructure and automating deployment pipelines_
 
